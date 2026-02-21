@@ -1,6 +1,6 @@
 cask "dict8" do
   version "0.1.0"
-  sha256 "34ca08bd3a6de12f33ff1caeffbf122d8ee75da98b01dce3f3ea81a92443e38b"
+  sha256 "6b410db463cb1276d563164287671773995a73b9199a27663d2b56e6bbda0954"
 
   url "https://github.com/qazaqninja/dict8/releases/download/v#{version}/dict8-macos.zip"
   name "dict8"
